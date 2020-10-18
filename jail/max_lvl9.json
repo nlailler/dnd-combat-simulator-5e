@@ -1,0 +1,20 @@
+{
+    "name": "max",
+    "hp": 74,
+    "ac": 13,
+    "initiative": 0,
+    "has_initiative_advantage": false,
+    "attacks_per_round": 1,
+    "damage_per_round": 9,
+    "extra_damage": 0,
+    "to_hit": 8,
+    "has_attack_advantage": false,
+    "saves": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+  }
+}

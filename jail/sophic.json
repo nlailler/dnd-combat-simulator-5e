@@ -1,0 +1,20 @@
+{
+    "name": "sophic",
+    "hp": 70,
+    "ac": 19,
+    "initiative": 5,
+    "has_initiative_advantage": false,
+    "attacks_per_round": 2,
+    "damage_per_round": 12,
+    "extra_damage": 0,
+    "to_hit": 10,
+    "has_attack_advantage": false,
+    "saves": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+  }
+}

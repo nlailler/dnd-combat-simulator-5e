@@ -1,0 +1,29 @@
+{
+    "name": "bishop",
+    "hp": 77,
+    "ac": 17,
+    "initiative": 2,
+    "attacks_per_round": 2,
+    "to_hit": 11,
+    "weapon": "holy_sword",
+    "bonus_action": "radiant_burst",
+    "advantages": {
+        "initiative": true,
+        "attack": false
+    },
+    "disadvantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "saves": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+    },
+    "resistances": [],
+    "spells": [],
+    "strategy": "AttacksOnly"
+}

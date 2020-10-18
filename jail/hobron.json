@@ -1,0 +1,20 @@
+{
+    "name": "hobron",
+    "hp": 84,
+    "ac": 22,
+    "initiative": 0,
+    "has_initiative_advantage": false,
+    "attacks_per_round": 1,
+    "damage_per_round": 14,
+    "extra_damage": 0,
+    "to_hit": 9,
+    "has_attack_advantage": false,
+    "saves": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+  }
+}

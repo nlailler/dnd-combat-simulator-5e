@@ -1,0 +1,28 @@
+{
+    "name": "arcturus",
+    "hp": 124,
+    "ac": 19,
+    "initiative": 2,
+    "attacks_per_round": 2,
+    "to_hit": 10,
+    "weapon": "fluorentine",
+    "advantages": {
+        "initiative": true,
+        "attack": true
+    },
+    "disadvantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "saves": {
+        "str": 10,
+        "dex": 3,
+        "con": 9,
+        "int": 1,
+        "wis": 3,
+        "cha": 1
+    },
+    "resistances": ["slashing", "piercing", "bludgeoning"],
+    "spells": [],
+    "strategy": "AttacksOnly"
+}

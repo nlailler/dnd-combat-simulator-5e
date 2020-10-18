@@ -1,0 +1,12 @@
+[{
+    "type": "acid",
+    "number": 1,
+    "size": 6,
+    "flat_bonus": 0
+},
+{
+    "type": "slashing",
+    "number": 2,
+    "size": 6,
+    "flat_bonus": 9
+}]

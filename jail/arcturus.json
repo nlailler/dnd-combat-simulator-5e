@@ -1,0 +1,12 @@
+{
+    "name": "arcturus",
+    "hp": 94,
+    "ac": 17,
+    "initiative": 2,
+    "has_initiative_advantage": true,
+    "attacks_per_round": 2,
+    "damage_per_round": 15,
+    "extra_damage": 0,
+    "to_hit": 9,
+    "has_attack_advantage": true
+}

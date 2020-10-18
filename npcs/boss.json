@@ -1,0 +1,29 @@
+{
+    "name": "boss",
+    "hp": 256,
+    "ac": 18,
+    "initiative": 2,
+    "attacks_per_round": 2,
+    "extra_damage": 0,
+    "to_hit": 10,
+    "weapon": "boss_hammer",
+    "advantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "disadvantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "saves": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 8,
+        "cha": 0
+    },
+    "resistances": [],
+    "spells": [],
+    "strategy": "AttacksOnly"
+}

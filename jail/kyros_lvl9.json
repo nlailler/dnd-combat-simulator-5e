@@ -1,0 +1,20 @@
+{
+    "name": "kyros",
+    "hp": 74,
+    "ac": 19,
+    "initiative": 2,
+    "has_initiative_advantage": false,
+    "attacks_per_round": 4,
+    "damage_per_round": 10.5,
+    "extra_damage": 0,
+    "to_hit": 8,
+    "has_attack_advantage": false,
+    "saves": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+  }
+}

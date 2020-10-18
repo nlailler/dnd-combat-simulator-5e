@@ -1,0 +1,30 @@
+{
+    "name": "reyla",
+    "hp": 66,
+    "ac": 15,
+    "initiative": 0,
+    "attacks_per_round": 0,
+    "to_hit": 8,
+    "weapon": "noop",
+    "advantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "disadvantages": {
+        "initiative": false,
+        "attack": false
+    },
+    "saves": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+    },
+    "resistances": [],
+    "spells": ["Fireball", "Firebolt", "HoldPerson"],
+    "spell_to_hit": 8,
+    "spell_dc": 18,
+    "strategy": "SpellsOnly"
+}
